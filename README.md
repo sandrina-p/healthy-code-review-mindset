@@ -1,3 +1,3 @@
 # Bringing A Healthy Code Review Mindset To Your Team
 
-📌 [Check Sliders](https://docs.google.com/presentation/d/1GJwqLkfFY2yyyRk38bTpbBaVSXCc64OX0qLNSwDJJGE/edit#slide=id.p)
+📌 [Check Sliders](https://speakerdeck.com/sandrinap/bringing-a-healthy-code-review-mindset-to-your-team)
